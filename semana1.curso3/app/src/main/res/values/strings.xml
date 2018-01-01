@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <!-- MainActivity -->
+    <string name="favorite_pets">Mascotas Favoritas</string>
+    <string name="contact">Contacto</string>
+    <string name="about">Acerca De</string>
+
+    <!-- PetProfileFragment -->
+    <string name="pet_name">Lazy</string>
+
+    <!-- ContactActivity -->
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="message">Mensaje</string>
+    <string name="submit">Enviar</string>
+
+</resources>
